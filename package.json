@@ -1,0 +1,16 @@
+{
+  "name": "order-66",
+  "version": "1.0.0",
+  "description": "Backend Practice Project with full implementation.",
+  "keywords": [
+    "Javascript",
+    "Node",
+    "Chai"
+  ],
+  "author": "Simar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
